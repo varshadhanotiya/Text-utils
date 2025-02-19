@@ -1,0 +1,8 @@
+accordion button,
+.accordion-button,
+.collapsed,
+.show {
+  background: inherit !important;
+  color: inherit !important;
+  text-align: left;
+}
